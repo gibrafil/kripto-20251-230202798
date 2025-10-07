@@ -25,6 +25,8 @@ Memasuki era modern, khususnya pada abad ke-20 dan 21, kriptografi mengalami lon
 Namun, perkembangan tersebut tidak selalu berjalan mulus. Di masa transisi dari sistem manual ke digital, terdapat berbagai kendala teknis dan sosial. Kekuatan komputasi yang terbatas menjadi tantangan utama bagi penerapan algoritma kriptografi yang kompleks di awal masa digital. Selain itu, masih rendahnya pemahaman masyarakat dan institusi terhadap pentingnya keamanan data menyebabkan banyak sistem tidak dilindungi dengan baik. Serangan seperti man-in-the-middle, pemalsuan identitas digital, dan pencurian data menjadi marak karena belum adanya standar keamanan yang menyeluruh. Implementasi awal dari kriptografi juga kerap tidak konsisten, dengan banyak organisasi yang menggunakan metode enkripsi lemah atau kunci yang mudah ditebak.
 
 Di masa kini, kriptografi telah menjadi komponen tak terpisahkan dalam berbagai teknologi digital mutakhir, terutama pada sistem berbasis blockchain dan cryptocurrency. Blockchain menggunakan kriptografi hash, tanda tangan digital, dan algoritma konsensus seperti Proof-of-Work untuk menciptakan sistem yang desentralisasi dan tahan manipulasi. Konsep ini tidak hanya digunakan dalam Bitcoin, tetapi juga dalam pengembangan token dan kontrak pintar di Ethereum — termasuk token sederhana seperti TinyCoin yang mengadopsi standar ERC-20. Di era ini, kriptografi bukan hanya pelindung data, tapi juga fondasi ekonomi digital yang transparan, aman, dan dapat diakses oleh siapa pun tanpa perlu bergantung pada otoritas pusat.
+
+
 ---
 
 ## 3. Alat dan Bahan  
