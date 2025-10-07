@@ -95,8 +95,6 @@ Niu, Jianyu; Feng, Chen; Dau, Hoang; Huang, Yu-Chih; Zhu, Jingge. “Analysis of
 ---
 
 ## 10. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
 ```
 commit abc12345
 Author: AhmadGalifGanendra <23020798>
