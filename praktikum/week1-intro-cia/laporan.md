@@ -73,12 +73,12 @@ Hasil eksekusi program Caesar Cipher:
 
 ## 7. Jawaban Pertanyaan
 
-Bagaimana perkembangan kriptografi dari masa kuno hingga era modern menunjukkan perubahan fungsi dan peranannya dalam menjaga keamanan informasi?
-Apa perbedaan mendasar antara kriptografi kunci publik seperti RSA dan kriptografi simetris seperti AES dalam hal cara kerja dan penerapannya?
-Mengapa kriptografi menjadi elemen penting dalam teknologi blockchain dan bagaimana perannya dalam menjaga keamanan serta transparansi sistem desentralisasi seperti Bitcoin dan Ethereum
+-Bagaimana perkembangan kriptografi dari masa kuno hingga era modern menunjukkan perubahan fungsi dan peranannya dalam menjaga keamanan informasi?
+-Apa perbedaan mendasar antara kriptografi kunci publik seperti RSA dan kriptografi simetris seperti AES dalam hal cara kerja dan penerapannya?
+-Mengapa kriptografi menjadi elemen penting dalam teknologi blockchain dan bagaimana perannya dalam menjaga keamanan serta transparansi sistem desentralisasi seperti Bitcoin dan Ethereum
 
 ## 8. Kesimpulan
-(Tuliskan kesimpulan singkat (2–3 kalimat) berdasarkan percobaan.  )
+Kriptografi berperan penting dalam menjaga keamanan data melalui prinsip CIA (Confidentiality, Integrity, Availability). Dari sandi klasik hingga sistem modern seperti blockchain, kriptografi terus berkembang mengikuti kebutuhan teknologi. Dengan begitu, kerahasiaan dan keaslian informasi tetap terjamin.
 
 ---
 
@@ -99,7 +99,7 @@ Niu, Jianyu; Feng, Chen; Dau, Hoang; Huang, Yu-Chih; Zhu, Jingge. “Analysis of
 Contoh:
 ```
 commit abc12345
-Author: Nama Mahasiswa <email>
+Author: AhmadGalifGanendra <23020798>
 Date:   2025-09-20
 
     week2-cryptosystem: implementasi Caesar Cipher dan laporan )
