@@ -1,28 +1,42 @@
 # Laporan Praktikum Kriptografi
-Minggu ke-: X  
-Topik: [judul praktikum]  
-Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
+Minggu ke-: 1
+Topik: week1-intro-cia  
+Nama: Ahmad Galif Ganendra  
+NIM: 230202798 
+Kelas: 5IKRA  
 
 ---
 
 ## 1. Tujuan
-(Tuliskan tujuan pembelajaran praktikum sesuai modul.)
+(Tujuan dari percobaan ini adalah untuk memahami konsep dasar hash dan  
+implementasi algoritma SHA-256).  
+Melalui praktikum ini, mahasiswa diharapkan dapat:  
+- Mengetahui cara kerja fungsi hash satu arah dan perbedaannya dengan enkripsi  
+- Mengimplementasikan algoritma SHA-256 menggunakan bahasa pemrograman Python  
+- Menganalisis hasil hash dari berbagai input untuk melihat efek avalanche  
+- Menyadari pentingnya fungsi hash dalam menjaga integritas dan keamanan data  
+
 
 ---
 
 ## 2. Dasar Teori
-(Ringkas teori relevan (cukup 2–3 paragraf).  
-Contoh: definisi cipher klasik, konsep modular aritmetika, dll.  )
+(Hashing dengan SHA-256)  
+Hash function merupakan salah satu konsep dasar dalam kriptografi yang mengubah  
+variabel menjadi keluaran dengan panjang tetap. Proses ini bersifat satu arah dan  
+tidak dapat dikembalikan ke bentuk aslinya. Salah satu algoritma hash yang umum  
+digunakan adalah SHA-256 (Secure Hash Algorithm 256-bit), yang dikembangkan oleh  
+National Security Agency (NSA). Hash banyak digunakan untuk keamanan data  
+digital seperti penyimpanan password, tanda tangan digital, dan validasi file.  
+
+SHA-256 menghasilkan keluaran berupa string heksadesimal sepanjang 64 karakter.  
+Input akan menghasilkan output hash yang sepenuhnya berbeda — fenomena ini disebut  
+SHA-256 dianggap sangat kuat untuk mendeteksi perubahan data dan menjaga integritas.  
 
 ---
 
-## 3. Alat dan Bahan
-(- Python 3.x  
-- Visual Studio Code / editor lain  
+## 3. Alat dan Bahan  
 - Git dan akun GitHub  
-- Library tambahan (misalnya pycryptodome, jika diperlukan)  )
+
 
 ---
 
