@@ -48,7 +48,7 @@ Menjawab quiz singkat
 Gunakan blok kode:
 
 ```
-git clone https://github.com/gibrafil/kriptografi-202501-230202798)
+git clone https://github.com/gibrafil/kripto-20251-230202798)
 ```
 )
 
@@ -63,6 +63,7 @@ git clone https://github.com/gibrafil/kriptografi-202501-230202798)
 Hasil eksekusi program Caesar Cipher:
 
 ![coba upload yang tadi](screenshots/coba.png)
+![initial_commit upload](screenshot/initialkomit.pn)
 ![Hasil Eksekusi](screenshots/output.png)
 ![Hasil Input](screenshots/input.png)
 ![Hasil Output](screenshots/output.png)
@@ -71,11 +72,10 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 7. Jawaban Pertanyaan
-(Jawab pertanyaan diskusi yang diberikan pada modul.  
-- Pertanyaan 1: …  
-- Pertanyaan 2: …  
-)
----
+
+Bagaimana perkembangan kriptografi dari masa kuno hingga era modern menunjukkan perubahan fungsi dan peranannya dalam menjaga keamanan informasi?
+Apa perbedaan mendasar antara kriptografi kunci publik seperti RSA dan kriptografi simetris seperti AES dalam hal cara kerja dan penerapannya?
+Mengapa kriptografi menjadi elemen penting dalam teknologi blockchain dan bagaimana perannya dalam menjaga keamanan serta transparansi sistem desentralisasi seperti Bitcoin dan Ethereum
 
 ## 8. Kesimpulan
 (Tuliskan kesimpulan singkat (2–3 kalimat) berdasarkan percobaan.  )
@@ -83,10 +83,14 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 9. Daftar Pustaka
-(Cantumkan referensi yang digunakan.  
-Contoh:  
-- Katz, J., & Lindell, Y. *Introduction to Modern Cryptography*.  
-- Stallings, W. *Cryptography and Network Security*.  )
+Katz, Jonathan, & Lindell, Yehuda. Introduction to Modern Cryptography (3rd ed.). Boca Raton: CRC Press, 2020. 
+Stallings, William. Cryptography and Network Security: Principles and Practice (8th ed.). Pearson, 2022. 
+Amazon Indonesia
+Nakamoto, Satoshi. Bitcoin: A Peer-to-Peer Electronic Cash System. 2008. Whitepaper. 
+satoshinakamoto.me
+Akcora, Cuneyt Gurcan; Gel, Yulia R.; Kantarcioglu, Murat. “Blockchain: A Graph Primer.” arXiv preprint arXiv:1708.08749, 2017. 
+arXiv
+Niu, Jianyu; Feng, Chen; Dau, Hoang; Huang, Yu-Chih; Zhu, Jingge. “Analysis of Nakamoto Consensus, Revisited.” arXiv preprint arXiv:1910.08510, 2019.
 
 ---
 
